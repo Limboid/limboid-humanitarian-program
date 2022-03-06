@@ -1,9 +1,11 @@
 # Limboid Humanitarian Program
 
-- A responsible demonstration of using the BoidNet
-- that makes lasting positive impact of the lives of humans
+- A responsible demonstration of using I:heart:U and the BoidNet,
+- that makes lasting positive impact of the lives of humans and the earth.
 
 ## Process
+
+- Request 
 
 - Users submit needs to I:heart:U
 - I:heart:U does independant investigation to determine the real and most important needs
